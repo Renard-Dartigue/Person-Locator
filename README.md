@@ -1,2 +1,16 @@
 # Person-Locator
-A command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+
+## Description
+ This app allows business owners to view their staff/employess and organize them based on roles within their department.
+
+
+## Installation
+
+
+## Usage
+
+
+## License
+
+
+### DEMO
