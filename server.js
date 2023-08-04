@@ -18,7 +18,7 @@ const db = mysql.createConnection(
     console.log(`Connected to the person_db`)
 );
 
-
+//(TODO: Display employees with thier roles using LEFT JOIN)
 
 
 
